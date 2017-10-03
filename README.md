@@ -1,2 +1,3 @@
 # hello-world
-First practice
+Our First practice project
+Still learning GitHub
